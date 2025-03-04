@@ -1,0 +1,31 @@
+header {
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+    background-color: #ffe5d4;
+}
+
+h1 {
+    color: #454851;
+}
+
+
+body {
+    background-color: #454851;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.lamb,
+.ramen,
+.scoglio {
+    font-family: 'Times New Roman', Times, serif;
+    color: #aaaaaa;
+}
+
+#cook {
+    display: block;
+    margin: auto;
+    width: 30%;
+}
